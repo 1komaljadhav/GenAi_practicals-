@@ -1,5 +1,5 @@
 🌟 Generative AI  Assignment Repository
-This repository includes a collection of hands-on assignments focused on Generative AI, Prompt Engineering, Multimodal Systems, and Creative AI Applications. These projects aim to explore the capabilities of foundational and pre-trained models like GPT, Stable Diffusion, DALL·E, CLIP, and Tacotron in tasks ranging from text generation to image synthesis and speech generation.
+This repository includes a collection of hands-on assignments focused on Generative AI, Prompt Engineering, Multimodal Systems, and Creative AI Applications. 
 
 📌 List of Assignments
 1️⃣ Probabilistic Text Generator using Markov Chains
